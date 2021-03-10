@@ -1,4 +1,6 @@
 # movie database
+
+## Setup
 > Clone the repository. Then import movies.sql after creating `movies` database
 
 ## Demo 
