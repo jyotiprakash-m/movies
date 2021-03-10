@@ -1,6 +1,6 @@
 # movie database
 
 ## Demo 
-<img src="one.jpg" alt="Home Page">
-<img src="two.jpg" alt="Title Page">
-<img src="three.jpg" alt="Actors Page">
+<img src="one.JPG" alt="Home Page">
+<img src="two.JPG" alt="Title Page">
+<img src="three.JPG" alt="Actors Page">
