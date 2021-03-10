@@ -1,4 +1,6 @@
 # movie database
+> Clone the repository
+> import movies.sql after creating `movies` database
 
 ## Demo 
 <img src="one.JPG" alt="Home Page">
